@@ -19,7 +19,7 @@ Kremepull has the following dependencies:
 Used for RFID handling (*Note*: It does not require the makerspace-auth
 _hardware_ only the makerspace-auth software).
 
-#### [python-ecspos][python-ecspos]
+#### [python-escpos][python-escpos]
 Used for receipt printer handling.
 
 [makerspace-auth]: https://github.com/google/makerspace-auth
