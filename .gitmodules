@@ -1,0 +1,6 @@
+[submodule "makerspace-auth"]
+	path = msauth
+	url = https://github.com/google/makerspace-auth.git
+[submodule "msauth"]
+	path = msauth
+	url = https://github.com/acemonstertoys/makerspace-auth.git

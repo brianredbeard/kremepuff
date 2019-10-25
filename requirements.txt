@@ -1,0 +1,6 @@
+python-escpos
+qrcode[pil]
+
+# TODO: Still need to make this work and am waiting on upstream merge
+# as well as some setup.py type mechanism.
+#git+https://github.com/google/makerspace-auth.git@refs/pull/28/head
