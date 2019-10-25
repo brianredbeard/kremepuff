@@ -23,6 +23,7 @@ _hardware_ only the makerspace-auth software).
 Used for receipt printer handling.
 
 [makerspace-auth]: https://github.com/google/makerspace-auth
+[python-escpos]: https://python-escpos.readthedocs.io/en/latest/
 
 <!--
  vim: ts=2 sw=2 et tw=80 syntax=markdown
